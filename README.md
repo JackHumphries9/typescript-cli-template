@@ -31,7 +31,7 @@
 
 This is a template for creating CLIs with Typescript, Chalk and Commander. It allows you to quickly create a CLI without having to worry about the setup.
 
-(Icon by [Smashicons]("https://www.flaticon.com/free-icons/command-line")
+(Icon by [Smashicons]("https://www.flaticon.com/free-icons/command-line"))
 
 ### Built With
 
@@ -125,8 +125,4 @@ Distributed under the GNU General Public License v3.0 License. See `LICENSE` for
 
 Jack Humphries - me@jackhumphries.io
 
-Project Link: [https://github.com/JackHumphries9/jwter](https://github.com/JackHumphries9/jwter)
-
-```
-
-```
+Project Link: [https://github.com/JackHumphries9/typescript-cli-template](https://github.com/JackHumphries9/typescript-cli-template)

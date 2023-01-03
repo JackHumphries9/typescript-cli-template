@@ -1,5 +1,5 @@
 import { Command } from "commander";
-import { PKG_DESCRIPTION, PKG_VERSION } from "./version";
+import { PKG_DESCRIPTION, PKG_VERSION } from "./version.js";
 
 const program = new Command();
 
