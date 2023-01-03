@@ -16,7 +16,6 @@
 		"cli"
 	],
 	"author": "<your-name>",
-	"license": "GNU General Public License v3.0",
 	"dependencies": {
 		"chalk": "^5.2.0",
 		"commander": "^9.4.1"
